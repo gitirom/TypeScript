@@ -1,0 +1,11 @@
+h2{
+    display: flex;
+    justify-content: center;
+}
+button{
+    display: inline-flex;
+    justify-content: center;
+    position: relative;
+    left: 41%;
+    
+}
